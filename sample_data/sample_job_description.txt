@@ -1,0 +1,35 @@
+Job Title: Junior Full-Stack Python Developer
+Location: Bengaluru, India (Hybrid)
+Company: Apex Innovations Tech Solutions
+
+About the Role:
+We are seeking an enthusiastic, passionate Full-Stack Python Developer to join our core product engineering team. You will be responsible for developing high-performance RESTful web services, architecting database schemas, integrating cloud components, and collaborating in an Agile software development lifecycle.
+
+Key Responsibilities:
+- Design, build, and maintain scalable backend services using Python and Django.
+- Develop and document clean REST API endpoints for web and mobile frontends.
+- Work closely with relational databases, specifically PostgreSQL, for schema modeling and query optimization.
+- Utilize caching mechanisms using Redis to ensure low-latency application responses.
+- Containerize application workloads with Docker and manage automated CI/CD deployment pipelines.
+- Deploy and monitor cloud services hosted on Amazon Web Services (AWS) using Kubernetes (K8s) clusters.
+- Maintain code version control using Git in a collaborative team repository.
+- Write robust unit testing (pytest) to ensure software quality and high test coverage.
+- Work within a Linux production server environment.
+- Collaborate with frontend engineers, product managers, and QA specialists to deliver customer-centric features.
+
+Required Qualifications & Skills:
+- Bachelor's degree in Computer Science, Information Technology, or related engineering discipline.
+- Proficient programming experience in Python.
+- Hands-on experience with modern web frameworks like Django.
+- Experience designing and consuming REST API architectures.
+- Solid understanding of SQL and relational databases like PostgreSQL.
+- Experience with in-memory caching stores such as Redis.
+- Familiarity with containerization using Docker.
+- Working knowledge of version control tools such as Git.
+- Exposure to cloud computing on AWS (Amazon Web Services).
+- Understanding of container orchestration using Kubernetes.
+- Experience with automated CI/CD workflows and deployment automation.
+- Knowledge of writing unit testing suites.
+- Working familiarity with the Linux command line.
+- Excellent Problem Solving capabilities and strong analytical reasoning.
+- Clear verbal and written Communication skills and an enthusiastic approach to team collaboration.
